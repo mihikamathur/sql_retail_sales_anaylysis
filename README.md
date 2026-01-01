@@ -88,6 +88,7 @@ WHERE
     month(sale_date)=11 and year(sale_date)=2022
     AND
     quantity >= 4
+```
 
 3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
 ```sql
